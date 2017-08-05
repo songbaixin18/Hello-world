@@ -1,3 +1,3 @@
 # Hello-World
 Cry.
-This is Song baixin.//看看怎么使用GitHub
+This is Song baixin.//熟悉操作GitHub
